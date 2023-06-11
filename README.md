@@ -3,8 +3,9 @@
 This program runs a blackjack simulation.
 
 Java showcase:
-- user input
+- read user input
 - do while loop
-- random number generator
 - if else loops
-- math
+- random number generator
+- math expressions
+- assign values to categories
